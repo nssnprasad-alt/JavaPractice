@@ -21,7 +21,7 @@ import org.testng.Assert;
 
 public class Telecom {
 	
-	@Test
+	
 
     public static void main(String[] args) {
 
