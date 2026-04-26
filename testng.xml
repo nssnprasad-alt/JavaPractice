@@ -4,7 +4,7 @@
 	<test name="Test">
 		<classes>
 			<class name="com.test.selenium_demo.RahulShetty1"/>
-			<class name="com.test.selenium_demo.Calender"/>
+			<class name="com.test.selenium_demo.Calendar"/>
 		</classes>
 	</test>
 
