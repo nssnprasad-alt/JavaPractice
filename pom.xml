@@ -67,13 +67,6 @@
       <version>${aspectj.version}</version>
       <scope>runtime</scope>
     </dependency>
-
-    <dependency>
-      <groupId>com.hotelpageLogin</groupId>
-      <artifactId>AdactinHotelLogin</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-    </dependency>
-
   </dependencies>
 
   <profiles>
