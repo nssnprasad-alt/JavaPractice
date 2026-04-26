@@ -1,8 +1,8 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.adactinhotelapp</groupId>
-  <artifactId>FrameworkPOM</artifactId>
+  <groupId>com.test.selenium_demo</groupId>
+  <artifactId>selenium-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <properties>
