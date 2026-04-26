@@ -56,7 +56,7 @@
             <version>3.5.5</version>
             <configuration>
               <suiteXmlFiles>
-                <suiteXmlFile>testng.xml</suiteXmlFile>
+                <suiteXmlFile>selenium-demo\testng.xml</suiteXmlFile>
               </suiteXmlFiles>
             </configuration>
           </plugin>
