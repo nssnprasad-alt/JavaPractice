@@ -31,8 +31,7 @@ public class Calendar {
 		// Setting the value directly
 		js.executeScript("arguments[0].setAttribute('value', '2024-08-15')", checkIn);
 		
-		driver.quit();
-		
+		driver.close();
 	}
 
 }
